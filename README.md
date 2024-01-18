@@ -1,1 +1,1 @@
-# DigitaleSpiegel
+# Digitale Spiegel Projekt Dokumentation
